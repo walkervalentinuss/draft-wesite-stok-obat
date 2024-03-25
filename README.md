@@ -87,4 +87,4 @@ Perasyaratan perangkat lunak yang dibutuhkan dalam membangun sistem ini yaitu :
 + 12S21011 - Aldi Jeremy Simamora (@aldijeremysimamora)
 + 12S21012 - Walker Valentinus Simanjuntak (@walkervalentinuss)
 + 12S21047 - Elshaday Prida Simamora (@elshadaysimamora)
-+ 12S21056 - Endang Siregar (@GitHubUsername)
++ 12S21056 - Endang Siregar (@endangsiregar)
